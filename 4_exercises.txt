@@ -1,0 +1,3 @@
+1. Load the file TEXT.txt. Count the number of lines and the frequency of the word 'Pan'. Count the number of syllables in each line.
+2. Load the file 4_Titanic-Dataset.xls (this is a CSV file). Summarize all columns. Plot each of them. Create a predictive model for the 'Survived' column. Generate a quality comparison chart of different models for the validation and test sets.
+3. Load the file 4_cost of heating.csv. Clean the data. Create a predictive model for the 'cost of heating' column. Generate a quality comparison chart of different models for the validation and test sets.
