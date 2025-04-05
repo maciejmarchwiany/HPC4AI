@@ -1,0 +1,21 @@
+FROM python:3.11-alpine
+
+ 
+
+WORKDIR /code
+
+ 
+
+COPY ./6_requirements.txt ./
+
+ 
+
+RUN pip install --no-cache-dir -r requirements.txt
+
+ 
+
+COPY ./src ./src
+
+ 
+
+CMD ["streamlit", "run", "main.py"]

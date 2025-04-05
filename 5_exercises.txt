@@ -1,0 +1,5 @@
+1. Create a virtual environment and install TensorFlow with CUDA support (use pip). Generate a requirements.txt file. Build a new environment based on this file.
+2. Create a conda environment and install PyTorch with CUDA 11.3 support. Create a .yml file. Build a new environment based on the .yml file. Measure the environment build time.
+3. Clean the cached conda and pip files, build a conda environment using MambaForge and the previous .yml file. Compare the environment build times using conda and mamba.
+4. Build ColabFold using Poetry and the 5_poetry.lock file.
+5. Build an environment using Poetry that contains PyTorch with CUDA 11.3.
