@@ -1,0 +1,7 @@
+Load the file 4_TEXT.txt. 
+1. Count the occurrence of each letter of the alphabet in the text. 
+2. Parallelize the task using multiprocessing and mpi4py. 
+3. Propose a method for parallelization with more then 200 processes. 
+4. Generate scalability and memory usage graphs. 
+5. 5Compare the scalability and performance of both packages.
+6. Investigate whether memory consumption can be reduced.
