@@ -1,0 +1,6 @@
+1. Write code that calculates the value of Pi using the Monte Carlo method.
+2. Compare the computation time using loops and NumPy functions.
+3. Compare how the computation time scales with the number of samples for both methods.
+4. Write code that numerically computes the integral of the function 1/sin(x)*x^log(x) over the interval [1, 10].
+5. Compare the computation time using loops and NumPy functions.
+6. Compare how the computation time scales with the number of samples for both methods.
