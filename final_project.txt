@@ -1,0 +1,17 @@
+Build a text classification system using the dataset from Kaggle (https://www.kaggle.com/datasets/sunilthite/text-document-classification-dataset). Implement feature extraction methods including:
+1.  Bag of Words, 
+2. TF-IDF, 
+3. n-grams (bigrams and trigrams), 
+4. word embeddings (Word2Vec and Doc2Vec). 
+Apply various machine learning algorithms: 
+1. Logistic Regression, 
+2. Random Forest, 
+3. XGBoost, 
+4. SVM, 
+5. Naive Bayes, 
+6. K-Nearest Neighbors, 
+7. Multi-layer Perceptron, 
+8. Large Language Models (LLaMA and Mistral). 
+Measure training and inference time for each model in three versions: base (out-of-the-box), optimized, and parallelized (multi-CPU). Ensure reproducible results in all versions. Compare performance (total time) across versions. Final accuracy will not be evaluated—focus on performance and reproducibility. Include all code and a brief report.
+Is it possible to develop a parallel pipeline that produces exactly the same results as the serial one (consider randomness in the methods)?
+Deadline: 25.06.2025
